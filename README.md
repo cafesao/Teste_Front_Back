@@ -22,10 +22,3 @@ Explicação do comando:
 >O comando yarn install é usado para instalar todas as dependências de um projeto. As dependências são recuperadas do arquivo package.json do seu projeto, e armazenadas no arquivo yarn.lock.
 
 Depois de ter instalado as dependências e so colocar `yarn dev` para rodar a aplicação e `yarn server` para rodar o server, acesse o link que o terminal do `yarn dev` dará como resposta e já estará funcionando, simples assim.
-
-### Opcional :exclamation:
-
-Você precisa ter instalado o [Docker](https://www.docker.com) ou o banco de dados do MongoDB, lendo o código você ira entender se precisa ou não de alguma modificação.
-
-
-
