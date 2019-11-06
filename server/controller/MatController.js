@@ -1,5 +1,4 @@
 module.exports = {
-    
     calcular(req, res) {
         const ReqMat = req.body
         const { expr } = ReqMat
